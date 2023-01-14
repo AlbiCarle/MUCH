@@ -1,0 +1,6 @@
+function D = NDistanceFromCenter(X,Y,alpha,Z,kernel,param)
+
+    D = diag(KernelMatrix(Z,Z,kernel,param)) ...
+        -2*KernelMatrix(Z,X,kernel,param)*(Y.*alpha) ...
+        +alpha'*(Y*Y'.*KernelMatrix(X,X,kernel,param))*alpha;
+        
