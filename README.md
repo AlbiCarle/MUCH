@@ -1,12 +1,10 @@
 # MUCH
 MUlti Counterfactual Halton sampling
 
-# Counterfactual eXplanations (CEX) 
-are spreading rapidly in the literature on explainable AI due to their ability to be easily understood and highly adaptable to data. 
+Counterfactual eXplanations (CEX) are spreading rapidly in the literature on explainable AI due to their ability to be easily understood and highly adaptable to data. 
 In this repository you will found an original method for the extraction of  multiple CEX from numerical data based on Halton sampling and Support Vector Data Description.
 
-# Examples 
-may help to better understand the motivation
+Examples may help to better understand the motivation
 behind this study and the importance of counterfactual
 reasoning in multiclass problems. In the field of health,
 several diseases present with different stages of severity
@@ -23,7 +21,6 @@ tual analysis can be useful to check for differences between
 different transitions (e.g., direct paths skipping intermediate
 transitions or progressive sequential paths).
 
-The concept paper behind this algorithm is currently under review at the 
-# IEEE Transactions on Artificial Intelligence.
+The concept paper behind this algorithm is currently under review at the IEEE Transactions on Artificial Intelligence.
 
-# Enjoy !
+Enjoy !
