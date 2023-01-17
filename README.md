@@ -24,3 +24,9 @@ transitions or progressive sequential paths).
 The concept paper behind this algorithm is currently under review at the IEEE Transactions on Artificial Intelligence.
 
 Enjoy !
+
+## Requirements 
+
+For the evaluation and visualization of the counterfactual explanations we used the following github repository: 
+
+Moses (2023). spider_plot (https://github.com/NewGuy012/spider_plot/releases/tag/19.4), GitHub. Retrieved January 17, 2023.
