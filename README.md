@@ -16,8 +16,7 @@ order to detect minimal changes in the patient’s condition
 and apply appropriate countermeasures before the disease
 progresses to the next stage. Another example may instead
 involve the study of the transition of a phenomenon that
-develops over several stages (e.g., A, B, C, D). A counterfac-
-tual analysis can be useful to check for differences between
+develops over several stages (e.g., A, B, C, D). A counterfactual analysis can be useful to check for differences between
 different transitions (e.g., direct paths skipping intermediate
 transitions or progressive sequential paths).
 
