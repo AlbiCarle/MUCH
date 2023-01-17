@@ -29,3 +29,9 @@ Enjoy !
 For the evaluation and visualization of the counterfactual explanations we used the following github repository: 
 
 Moses (2023). spider_plot (https://github.com/NewGuy012/spider_plot/releases/tag/19.4), GitHub. Retrieved January 17, 2023.
+
+The datasets can be directly retrieved from Kaggle_
+
+-) FIFA 2023: https://www.kaggle.com/datasets/cashncarry/fifa-23-complete-player-dataset
+
+-) Stellar Classification: https://www.kaggle.com/fedesoriano/stellar-classification-dataset-sdss17
