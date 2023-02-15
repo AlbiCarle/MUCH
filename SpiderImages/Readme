@@ -1,0 +1,22 @@
+# README: SpiderImages
+
+This folder contains more counterfactual examples extracted with MUCH from the FIFA_2023 dataset.
+
+The dataset proposes a classification into 4 different classes based on 50 attributes of soccer players:
+
+MF: MidFielder (red)
+DE: DEfensor (blue)
+FO: FOrward (green)
+GK: Goal Keeper (yellow)
+
+For each target class we divided the input feature into four main classes:
+
+-) Mental Attributes
+-) Physical Attributes
+-) Techincal Skills
+-) Foundamental Attributes
+
+and for each of them we extracted counterfactuals, obtaining 16 different counterfactual explanations. In each image there is a spiderplot containing 
+a dotted line representing the fact and the respective counterfactuals, which can be identified with the colors listed above.
+
+There are in total 32 images (.eps and .png).
