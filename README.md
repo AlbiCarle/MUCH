@@ -29,7 +29,7 @@ Enjoy !
 
 ## Applications
 
--) CVD_risk: Counterfactual explanations for creating personalized risk reduction strategies to reduce the risk of developing cardiovascular diseases (CVDs) in patients diagnosed with Chronic Obstructive Pulmonary Disease (COPD). The referenced code is available at the subfolder [CVD_risk](MUCH/CVD_risk/)
+-) CVD_risk: Counterfactual explanations for creating personalized risk reduction strategies to reduce the risk of developing cardiovascular diseases (CVDs) in patients diagnosed with Chronic Obstructive Pulmonary Disease (COPD). The referenced code is available at the subfolder [CVD_risk](CVD_risk/)
 
 
 ## Requirements 
