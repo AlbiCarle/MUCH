@@ -20,7 +20,10 @@ develops over several stages (e.g., A, B, C, D). A counterfactual analysis can b
 different transitions (e.g., direct paths skipping intermediate
 transitions or progressive sequential paths).
 
-The concept paper behind this algorithm is currently under review at the IEEE Transactions on Artificial Intelligence.
+The concept paper behind this algorithm is published in IEEE Transactions on Artificial Intelligence:
+
+A. Carlevaro, M. Lenatti, A. Paglialonga and M. Mongelli, "Multiclass Counterfactual Explanations Using Support Vector Data Description," in IEEE Transactions on Artificial Intelligence, vol. 5, no. 6, pp. 3046-3056, June 2024, doi: 10.1109/TAI.2023.3337053.
+keywords: {Artificial intelligence;Kernel;Controllability;Complexity theory;Classification algorithms;Training;Support vector machine classification;Counterfactual explanations;multiclass classification;support vector data description},
 
 Enjoy !
 
