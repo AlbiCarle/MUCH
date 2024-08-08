@@ -27,6 +27,11 @@ keywords: {Artificial intelligence;Kernel;Controllability;Complexity theory;Clas
 
 Enjoy !
 
+## Applications
+
+-) CVD_risk: Counterfactual explanations for creating personalized risk reduction strategies to reduce the risk of developing cardiovascular diseases (CVDs) in patients diagnosed with Chronic Obstructive Pulmonary Disease (COPD). The referenced code is available at the subfolder [CVD_risk](MUCH/CVD_risk/)
+
+
 ## Requirements 
 
 For the evaluation and visualization of the counterfactual explanations we used the following github repository: 
