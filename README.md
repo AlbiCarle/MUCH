@@ -29,6 +29,8 @@ Enjoy !
 
 ## Applications
 
+-) FIFA dataset: Counterfactual explanations to create different training plans to help specializing a football player in a different role based on the FIFA dataset main attributes.
+
 -) CVD_risk: Counterfactual explanations for creating personalized risk reduction strategies to reduce the risk of developing cardiovascular diseases (CVDs) in patients diagnosed with Chronic Obstructive Pulmonary Disease (COPD). The referenced code is available at the subfolder [CVD_risk](CVD_risk/)
 
 
